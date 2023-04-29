@@ -1,0 +1,1 @@
+# Django_website_shop
